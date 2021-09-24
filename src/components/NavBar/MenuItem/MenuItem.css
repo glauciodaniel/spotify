@@ -1,0 +1,19 @@
+.menuItem {
+    list-style: none;
+}
+.menuItem li {
+  line-height: 40px;
+  display: flex;
+}
+.menuItem li img {
+    margin-right: 20px;
+}
+.menuItem li {
+    color: #bbb;
+}
+.menuItem li:hover {
+    color: #fff;
+}
+.icon {
+    fill: red;
+}

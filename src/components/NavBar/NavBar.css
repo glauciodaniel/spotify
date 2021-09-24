@@ -1,0 +1,13 @@
+.nav-bar{
+  width: 240px;
+  height: calc(100vh - 94px);
+  background-color: #000;
+  display: flex;
+  color: #f1f1f1;
+  flex-direction: column;
+}
+
+.logo-spotify {
+    margin-top: 1em;
+    margin-left: 1em;
+}
